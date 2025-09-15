@@ -1,0 +1,4 @@
+Repo
+    HAOS
+    Addon
+    Custom Integration
